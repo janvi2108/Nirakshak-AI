@@ -1,0 +1,80 @@
+Citizen Grievance and Complaint Redressal Process
+
+HOW TO FILE A GRIEVANCE
+
+ONLINE:
+1. CPGRAMS (Centralized Public Grievance Redress and Monitoring System): pgportal.gov.in
+   - Register with your mobile number
+   - Select ministry/department
+   - Describe grievance in detail
+   - Attach supporting documents (max 2MB per file)
+   - Note your grievance registration number
+   
+2. State portals: Most states have their own e-district grievance portal
+
+OFFLINE:
+- Visit nearest district office / tehsil office
+- Submit written complaint to the concerned officer
+- Get acknowledgment receipt with complaint number
+
+---
+
+GRIEVANCE CATEGORIES AND RESPONSIBLE DEPARTMENTS
+
+Certificate Delays:
+- Responsible: Revenue Department / District Magistrate office
+- SLA: 7-15 working days (varies by certificate type)
+- Escalation: Sub-Divisional Magistrate → District Magistrate → Commissioner
+
+Officer Misconduct / Corruption:
+- Responsible: Vigilance Department / Anti-Corruption Bureau
+- File FIR at nearest police station for bribery demands
+- Anti-Corruption Helpline: 1064 (in most states)
+- Central Vigilance Commission: cvc.gov.in
+
+Portal / Technical Issues:
+- Responsible: IT Department of respective state
+- Helpdesk email: Usually mentioned on the portal
+- Common helpline: 1800-XXX-XXXX (check state portal)
+
+Wrong Information in Documents:
+- Responsible: Issuing authority (Revenue Department for most certificates)
+- Submit correction request with supporting proofs
+- Processing time: 5-10 working days
+
+---
+
+ESCALATION MATRIX (Certificate-related complaints)
+
+Level 1: Office where application was submitted (3 working days)
+Level 2: Tehsildar / Block Development Officer (5 working days)
+Level 3: Sub-Divisional Magistrate / SDM (7 working days)
+Level 4: District Magistrate / Collector (10 working days)
+Level 5: Commissioner / Divisional Commissioner (15 working days)
+Level 6: State Chief Secretary (20 working days)
+Level 7: CPGRAMS (Central Government portal) for unresolved issues
+
+---
+
+IMPORTANT CONTACT NUMBERS
+
+National Helplines:
+- PM Helpline: 1800-11-0001 (Toll free)
+- Women Helpline: 1091
+- Child Helpline: 1098
+- Anti-Corruption: 1064
+- Civil Registration: 1800-180-1551
+
+---
+
+RIGHTS OF CITIZENS UNDER RTI ACT
+
+Under the Right to Information Act 2005, you can:
+- Request information about your application status
+- Ask for certified copies of documents
+- Inquire about reasons for rejection
+- Know the names of responsible officers
+
+RTI application fee: Rs. 10
+Response time: 30 days (48 hours for life/liberty matters)
+File RTI at: rtionline.gov.in
